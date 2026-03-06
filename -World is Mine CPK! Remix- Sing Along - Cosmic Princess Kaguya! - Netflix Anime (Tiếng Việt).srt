@@ -1,150 +1,105 @@
 00:00:00,000 --> 00:00:01,626
 Sekai de
-Thế giới này là của tôi
 
 00:00:01,710 --> 00:00:03,670
 Ichiban ohimesama
-Và tôi là công chúa của bạn, không thấy ư?
 
 00:00:03,753 --> 00:00:06,006
 Sou iu atsukai
-Tôi mong bạn đối xử tốt với tôi
 
 00:00:06,089 --> 00:00:10,343
 Kokoroete
-Đừng quên nhé!
 
 00:00:12,220 --> 00:00:13,013
 Yo ne
-Được chứ?
 
 00:00:28,361 --> 00:00:30,530
 Sono ichi itsumo to chigau
-Một, mỗi khi tôi đổi kiểu tóc
 
 00:00:30,613 --> 00:00:31,531
 Kamigata ni
-Tôi mong bạn
 
 00:00:31,614 --> 00:00:33,116
 Ki ga tsuku koto
-Khen ngợi
 
 00:00:33,199 --> 00:00:34,409
 Sono ni chanto
-Hai, ngắm nhìn tôi
 
 00:00:34,492 --> 00:00:36,786
 Kutsu made miru koto ii ne?
-Từ đầu đến chân, nhớ chưa?
 
 00:00:36,870 --> 00:00:39,122
 Sono san watashi no hitokoto ni wa
-Ba, với mỗi lời tôi nói
 
 00:00:39,205 --> 00:00:40,206
 Mittsu no kotoba de
-Hãy đáp lại
 
 00:00:40,290 --> 00:00:41,291
 Henji suru koto
-Bằng ba từ!
 
 00:00:41,374 --> 00:00:42,584
 Wakattara
-Nếu bạn hiểu
 
 00:00:42,667 --> 00:00:43,710
 Migite ga orusu
-Sao tay phải của tôi không có gì?
 
 00:00:43,793 --> 00:00:45,754
 Na no o nantoka shite
-Đến sửa sai đi chứ?
-
-00:00:45,837 --> 00:00:46,713
-Này, đó là phần của em!
 
 00:00:46,796 --> 00:00:47,922
 Wagamama nante
-Tôi không ích kỉ
 
 00:00:48,006 --> 00:00:49,090
 Ittenain dakara
-Tôi biết mình xứng đáng gì
-
-00:00:49,174 --> 00:00:49,841
-Trả chị ấy đây!
 
 00:00:49,924 --> 00:00:51,593
 Kimi ni kokoro
-Tôi muốn bạn yêu tôi
 
 00:00:51,676 --> 00:00:53,511
 Kara omotte hoshii
-Từ tận đáy lòng
 
 00:00:53,595 --> 00:00:55,346
 No kawaiitte
-Và thấy tôi dễ thương thế nào
-
-00:00:56,723 --> 00:01:00,894
-Nào, tiến lên đi! Bạn có thể yêu tôi
-hơn bất cứ ai trên thế giới!
 
 00:01:00,977 --> 00:01:02,645
 Sekai de
-Thế giới này là của tôi
 
 00:01:02,729 --> 00:01:04,689
 Ichiban ohimesama
-Và tôi là công chúa của bạn, không thấy ư?
 
 00:01:04,773 --> 00:01:07,275
 Ki ga tsuite nee nee
-Chú ý đến tôi ngay, nhanh nào!
 
 00:01:07,358 --> 00:01:08,985
 Mataseru nante rongai yo
-Đừng hòng bạn để tôi chờ
 
 00:01:09,069 --> 00:01:10,862
 Watashi o
-Hãy đối xử tốt với tôi
 
 00:01:10,945 --> 00:01:12,655
 Dare dato omotteru no?
-Bạn nghĩ tôi là ai?
 
 00:01:12,739 --> 00:01:15,075
 Mou nandaka
-Giờ tôi thấy đói rồi
 
 00:01:15,158 --> 00:01:16,451
 Amai mono ga
-Vậy hãy mang cho tôi
 
 00:01:16,534 --> 00:01:19,370
 Tabetai!
-Thứ gì đó ngọt ngào!
 
 00:01:20,872 --> 00:01:22,248
 Ima sugu ni yo
-Ngay bây giờ!
-
-00:01:25,460 --> 00:01:26,419
-Đúng thế!
 
 00:01:28,713 --> 00:01:30,090
 Hei beibii
-Này, cưng ơi
 
 00:01:31,049 --> 00:01:32,550
-Tiếp theo là bài hát mới!
+"Tiếp theo là bài hát mới!"
 
 00:01:32,634 --> 00:01:34,427
-Bắt đầu thôi!
+"Bắt đầu thôi!"
 
 00:01:37,138 --> 00:01:38,181
-Tạm nghỉ!
+"Tạm nghỉ!"
 
